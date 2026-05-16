@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Maintainer** | Richard Carragher (RC COMMS) |
+| **Maintainer** | Rich Hacks |
 | **Last reviewed** | 16 May 2026 |
 | **Companion document** | `proxmox-infrastructure-INTERNAL.md` (§5 Networking, Appendix E) |
 | **Current state** | 2-node cluster, no QDevice, no HA rules configured |
